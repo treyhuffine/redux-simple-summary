@@ -1,6 +1,6 @@
 # redux-simple-summary
 
-It seems like every blog post about Redux is thousands of words when I'm only looking for a dead simple example of the logic process to refer to while I build my apps. Thus, I created thsi crazy simple summary. Feel free to update and critique as necessary.
+It seems like every blog post about Redux is thousands of words when I'm only looking for a dead simple example of the logic process to refer to while I build my apps. Thus, I created this crazy simple summary. Feel free to update and critique as necessary.
  
 **Redux** - Hold and update the entire state of the app in the simplest manner possible while also using the least amount of boilerplate code.
  
